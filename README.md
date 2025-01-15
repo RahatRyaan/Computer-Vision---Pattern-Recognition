@@ -1,1 +1,1 @@
-# CVPR
+# Computer Vision & Pattern Recognition
